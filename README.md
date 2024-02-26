@@ -1,0 +1,2 @@
+# SQL-StrataScratch
+Interview question 
